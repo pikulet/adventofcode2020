@@ -38,4 +38,4 @@ for d in data:
     validB += verifyB(min_val, max_val, letter, pw)
 
 print("Solution for A:", validA)
-print("Solution for A:", validB)
+print("Solution for B:", validB)
