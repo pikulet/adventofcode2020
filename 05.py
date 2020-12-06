@@ -34,4 +34,4 @@ print('Part A:', max_seat_id)
 
 all_seat_ids = set(range(min_seat_id, max_seat_id + 1))
 free_seats = all_seat_ids - seat_ids
-print('Part B:' free_seats)
+print('Part B:', free_seats)
